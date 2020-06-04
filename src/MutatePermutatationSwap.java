@@ -2,7 +2,6 @@ import java.util.Collections;
 import java.util.Random;
 
 import org.opt4j.core.genotype.PermutationGenotype;
-import org.opt4j.operators.mutate.MutationRate;
 
 public class MutatePermutatationSwap {
 
